@@ -43,3 +43,10 @@ button{
     background-color: blue;
     color: white;
 }
+
+.message{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 100px;
+}
